@@ -1,0 +1,38 @@
+Microsoft Windows [Version 10.0.19041.1052]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\لطوف>cd .\source\repos\watson-streaming-stt\
+
+C:\Users\لطوف\source\repos\watson-streaming-stt>python transcribe.py -t 10
+* recording
+I
+I
+I will
+I want
+I want
+I want to
+I want to
+I want to
+I want to
+I want to add value
+I want to evaluate
+I want to evaluate
+I want to evaluate
+I want to evaluate the
+I want to evaluate this
+I want to evaluate this
+I want to evaluate this
+I want to evaluate this
+I want to evaluate display
+I want to evaluate display
+I want to evaluate this place
+I want to evaluate this place
+I want to evaluate this place
+I want to evaluate this place
+I want to evaluate this place
+I want to evaluate this place
+* done recording
+yeah
+yeah
+
+C:\Users\لطوف\source\repos\watson-streaming-stt>python transcribe.py -t 10
